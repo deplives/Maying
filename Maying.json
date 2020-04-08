@@ -1,0 +1,49 @@
+{
+  "login": {
+    "email": "",
+    "passwd": ""
+  },
+  "url": {
+    "subscribe": "",
+    "signin": "https://maying.co/auth/login",
+    "node": "https://maying.co/user/node"
+  },
+  "oss": {
+    "ACCESS_KEY_ID": "",
+    "ACCESS_KEY_SECRET": "",
+    "BUCKET": "",
+    "ENDPOINT": "",
+    "FILENAME": ""
+  },
+  "proxy": {
+    "http": "",
+    "https": ""
+  },
+  "custom": [
+    "V307U",
+    "V308U",
+    "V309U",
+    "V310U",
+    "V311U",
+    "V318U",
+    "V319U",
+    "V320U",
+    "V321U",
+    "V322U",
+    "V323U",
+    "V324U",
+    "V407U",
+    "V408U",
+    "V409U",
+    "V410U",
+    "V411U",
+    "V416U",
+    "V417U",
+    "V418U",
+    "V419U",
+    "V486U",
+    "V487U",
+    "V488U",
+    "V489U"
+  ]
+}
